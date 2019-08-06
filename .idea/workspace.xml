@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1459b574-f0ec-4079-aa42-eec3d75a4ade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DoubleLinkedList/DouLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Chess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/stack/MyCircularQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Arrays1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5/staticEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="e#45#46#0" expanded="true" />
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter5/Arrays1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleLinkedList/DouLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="19" column="17" lean-forward="true" selection-end-line="90" />
+            <state relative-caret-position="456">
+              <caret line="19" column="17" selection-end-line="90" />
             </state>
           </provider>
         </entry>
@@ -66,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="596" column="24" lean-forward="true" selection-start-line="596" selection-start-column="24" selection-end-line="596" selection-end-column="24" />
+            <state relative-caret-position="13368">
+              <caret line="596" column="24" selection-start-line="596" selection-start-column="24" selection-end-line="596" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -75,28 +57,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter7/P3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#40#41#0" expanded="true" />
-                <element signature="e#61#62#0" expanded="true" />
+                <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#118#119#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter7/Chess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#47#48#0" expanded="true" />
+                <element signature="e#89#90#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/Chess.java">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/MyCircularQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="456">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
-                <element signature="e#47#48#0" expanded="true" />
-                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,14 +177,13 @@
         <option value="$PROJECT_DIR$/src/DoubleLinkedList/DouLinkedList.java" />
         <option value="$PROJECT_DIR$/src/chapter5/Arrays1.java" />
         <option value="$PROJECT_DIR$/src/chapter7/Chess.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/stack/MyCircularQueue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1918" />
-    <option name="height" value="1038" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -197,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,31 +207,20 @@
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DoubleLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564966467702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565104610896" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -364,7 +346,9 @@
       <workItem from="1564797559066" duration="3494000" />
       <workItem from="1564844559141" duration="1132000" />
       <workItem from="1564900794033" duration="3528000" />
-      <workItem from="1564963203563" duration="1904000" />
+      <workItem from="1564963203563" duration="1947000" />
+      <workItem from="1565007649454" duration="599000" />
+      <workItem from="1565103782868" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="7/28">
       <created>1564362208029</created>
@@ -387,16 +371,24 @@
       <option name="project" value="LOCAL" />
       <updated>1564448371475</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="8/5">
+      <created>1564966490123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564966490123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19612000" />
+    <option name="totallyTimeSpent" value="21082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27771798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16111112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -405,7 +397,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32764506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,7 +426,8 @@
     <MESSAGE value="7/28" />
     <MESSAGE value="7/29" />
     <MESSAGE value="7/30 good morning" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/30 good morning" />
+    <MESSAGE value="8/5" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/chapter10.java" />
@@ -555,6 +548,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/Arrays1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10800">
@@ -562,6 +562,35 @@
           <folding>
             <element signature="e#15414#15415#0" expanded="true" />
             <element signature="e#15459#15460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoubleLinkedList/DouLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="17" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13368">
+          <caret line="596" column="24" selection-start-line="596" selection-start-column="24" selection-end-line="596" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/P3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#41#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -595,49 +624,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="596" column="24" lean-forward="true" selection-start-line="596" selection-start-column="24" selection-end-line="596" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DoubleLinkedList/DouLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="17" lean-forward="true" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/Arrays1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/P3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#40#41#0" expanded="true" />
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter7/Chess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="432">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#47#48#0" expanded="true" />
-            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/stack/MyCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
           </folding>
         </state>
       </provider>
